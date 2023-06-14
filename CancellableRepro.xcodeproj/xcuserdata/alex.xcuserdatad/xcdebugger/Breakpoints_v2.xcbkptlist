@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4A217E6A-3116-4F8A-A824-61C67E52FE7B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA01293E-4FBF-4D3F-8440-4F99A3BD73FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CancellableRepro/ErrorLoggingReducer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AA01293E-4FBF-4D3F-8440-4F99A3BD73FD - bb8f21fcc3d29a43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;CancellableRepro.ErrorLoggingReducer.Action&gt;) async throws -&gt; () in closure #1 (inout CancellableRepro.ErrorLoggingReducer.State, CancellableRepro.ErrorLoggingReducer.Action) -&gt; ComposableArchitecture.EffectPublisher&lt;CancellableRepro.ErrorLoggingReducer.Action, Swift.Never&gt; in CancellableRepro.ErrorLoggingReducer.body.getter : some"
+                  moduleName = "CancellableRepro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Documents/OpenSource/CancellableRepro/CancellableRepro/ErrorLoggingReducer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "AA01293E-4FBF-4D3F-8440-4F99A3BD73FD - d232cf6f7460a549"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;CancellableRepro.ErrorLoggingReducer.Action&gt;) async throws -&gt; () in closure #1 (inout CancellableRepro.ErrorLoggingReducer.State, CancellableRepro.ErrorLoggingReducer.Action) -&gt; ComposableArchitecture.EffectPublisher&lt;CancellableRepro.ErrorLoggingReducer.Action, Swift.Never&gt; in CancellableRepro.ErrorLoggingReducer.body.getter : some"
+                  moduleName = "CancellableRepro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Documents/OpenSource/CancellableRepro/CancellableRepro/ErrorLoggingReducer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC74DA44-3B05-4D51-82E6-8254065984DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CancellableRepro/ErrorLoggingReducer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2D6AC3E-DA6F-4C68-8BFF-49C928C21C31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CancellableRepro/ErrorLoggingReducer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC275585-E192-4782-B3A8-EED1AB054D0E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CancellableRepro/ErrorLoggingReducer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7919AC28-4D0D-4DDD-B7BC-C0637D07E8A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Effects/Cancellation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "271"
+            endingLineNumber = "271"
+            landmarkName = "cancel(id:path:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7919AC28-4D0D-4DDD-B7BC-C0637D07E8A3 - 2b072d30117c493b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComposableArchitecture.CancellablesCollection.cancel(id: Swift.AnyHashable, path: ComposableArchitecture.NavigationIDPath) -&gt; ()"
+                  moduleName = "CancellableRepro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Effects/Cancellation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "271"
+                  endingLineNumber = "271"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "7919AC28-4D0D-4DDD-B7BC-C0637D07E8A3 - 1dc2b4d696cd3a4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.AnyCancellable) -&gt; () in ComposableArchitecture.CancellablesCollection.cancel(id: Swift.AnyHashable, path: ComposableArchitecture.NavigationIDPath) -&gt; ()"
+                  moduleName = "CancellableRepro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Effects/Cancellation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "271"
+                  endingLineNumber = "271"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59913A85-3990-40F4-B518-D8E2D9206A48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Effects/Cancellation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "withTaskCancellation(id:cancelInFlight:operation:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA0C6F7D-7937-4959-8FF9-B8B600AE1D5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Effects/Cancellation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "insert(_:at:path:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "044B380B-1FFB-45DB-8D82-6DBC0CEB6568"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Internal/NavigationID.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "appending(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EC46BDD-0787-4F73-9027-0653C3B9567F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Internal/NavigationID.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "init(id:keyPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACCC79C0-211C-4F44-B275-E90E516155E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Internal/NavigationID.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "init(base:keyPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3740F276-289A-4451-A7EB-D8DEAE80D65F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Internal/NavigationID.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "init(id:keyPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B973802B-183B-4E9F-8FB8-E25CCB4DB5B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Internal/NavigationID.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "init(root:value:casePath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34D6E5F0-80C7-416A-9903-10244F87BC87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Internal/OpenExistential.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "_identifiableID(_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "34D6E5F0-80C7-416A-9903-10244F87BC87 - d69913e05ee6bf30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComposableArchitecture._identifiableID(Any) -&gt; Swift.Optional&lt;Swift.AnyHashable&gt;"
+                  moduleName = "CancellableRepro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Internal/OpenExistential.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "34D6E5F0-80C7-416A-9903-10244F87BC87 - d69913e05ee6bf30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComposableArchitecture._identifiableID(Any) -&gt; Swift.Optional&lt;Swift.AnyHashable&gt;"
+                  moduleName = "CancellableRepro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Internal/OpenExistential.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7814E965-01F4-418A-9F29-BF1542FAB1EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/EnumReflection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "388"
+            endingLineNumber = "388"
+            landmarkName = "_project(_:isIndirect:associatedValueType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE0A7F2F-0B1F-4092-AC83-1EA457B905F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/EnumReflection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "404"
+            endingLineNumber = "404"
+            landmarkName = "_project(_:isIndirect:associatedValueType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD07C7DF-F3D9-4F42-8CE1-D17CD8FFFEEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Internal/NavigationID.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "init(base:keyPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B12D7F8-C7A0-4CE3-B3C7-65B42D77AC77"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-composable-architecture/Sources/ComposableArchitecture/Internal/NavigationID.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "init(base:keyPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46CE8C7B-9FAC-44C1-BD2C-61967BE953AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/CancellableRepro-bgftcyeoctpnabfdbxuixsfljpgh/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/EnumReflection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "427"
+            endingLineNumber = "427"
+            landmarkName = "_project(_:isIndirect:associatedValueType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
